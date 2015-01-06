@@ -6,8 +6,8 @@ https://github.com/jefftimesten/mturk
 
 # Attribution and Acknowledgements
 
-https://github.com/jefftimesten/mturk
-https://github.com/HarvardEconCS/turkserver-meteor
+* https://github.com/jefftimesten/mturk
+* https://github.com/HarvardEconCS/turkserver-meteor
 
 # License
 
