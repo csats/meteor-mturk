@@ -1,5 +1,5 @@
 ========================================
-csats/mturk is licensed under the MIT License
+csats/meteor-mturk is licensed under the MIT License
 ========================================
 
 Copyright (C) 2015 C-SATS, Inc.
@@ -23,7 +23,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ====================================================================
-This license applies to all code in csats/mturk that is not an externally
-maintained library. Externally maintained libraries (enumerated in package.js)
-have their own (compatible) licenses. See those libraries for license details.
+This license applies to all code in csats/meteor-mturk that is not an
+externally maintained library. Externally maintained libraries (enumerated in
+package.js) have their own (compatible) licenses. See those libraries for
+license details.
 ====================================================================
