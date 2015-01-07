@@ -1,8 +1,13 @@
-# Basic mTurk API for Meteor
+# Basic mTurk API wrapper for Meteor
 
-The is a Meteor package for mTurk based on the node package found here:
+Meteor package for mTurk based on
+[jefftimesten/mturk](https://github.com/jefftimesten/mturk).
 
-https://github.com/jefftimesten/mturk
+## Install
+
+Run this to add csats/mturk to your Meteor application:
+
+    meteor add csats:mturk
 
 # Attribution and Acknowledgements
 
