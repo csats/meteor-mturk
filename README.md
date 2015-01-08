@@ -9,6 +9,12 @@ Run this to add csats/mturk to your Meteor application:
 
     meteor add csats:mturk
 
+## Test
+
+Run this command to test the csats/mturk package:
+
+    meteor test-packages csats:core
+
 # Attribution and Acknowledgements
 
 * https://github.com/jefftimesten/mturk
