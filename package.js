@@ -16,6 +16,12 @@ Package.onUse(function(api) {
   api.export("MTurk");
 });
 
+Package.onTest(function(api){
+  api.use("csats:mturk");
+  api.use("tinytest");
+  api.add_files("test/constructor.js");
+})
+
 Npm.depends({
   "request": "2.51.0",
   "libxmljs": "0.12.0",
