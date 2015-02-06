@@ -3,6 +3,11 @@
 Meteor package for mTurk based on
 [jefftimesten/mturk](https://github.com/jefftimesten/mturk).
 
+For usage examples, see the
+[csats/mturk-tool](https://github.com/csats/mturk-tool) example Meteor app. In
+particular, the use of `Meteor.wrapAsync()` is handy when calling `csats/mturk`
+functions.
+
 ## Install
 
 Run this to add csats/mturk to your Meteor application:
