@@ -4,7 +4,7 @@
   "description": "Meteor package for mTurk based on [jefftimesten/mturk](https://github.com/jefftimesten/mturk).",
   "main": "mturk-tests.js",
   "scripts": {
-    "test": "npm install && spacejam test-packages ./"
+    "test": "npm install && jshint -c .jshintrc --verbose *js lib && spacejam test-packages ./"
   },
   "repository": {
     "type": "git",
