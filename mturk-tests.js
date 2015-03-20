@@ -1,11 +1,11 @@
 'use strict';
 
-Tinytest.add('MTurk Object Test', function(test) {
+Tinytest.add('MTurk - globals', function(test) {
   test.isNotNull(MTurk);
 });
 
 if(Meteor.isServer){
-  Tinytest.add('MTurk Instance Test', function(test) {
+  Tinytest.add('MTurk - instance test', function(test) {
     var settings = {
       'creds': {
         'accessKey': 'accessKey',
