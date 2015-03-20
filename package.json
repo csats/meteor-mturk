@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/csats/meteor-mturk",
   "dependencies": {
+    "jshint": "^2.6.3",
     "spacejam": "^1.1.4"
   }
 }
