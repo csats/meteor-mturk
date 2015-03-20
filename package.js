@@ -19,7 +19,7 @@ Package.onUse(function(api) {
 Package.onTest(function(api){
   api.use("csats:mturk");
   api.use("tinytest");
-  api.add_files("test/constructor.js");
+  api.add_files("mturk-tests.js");
 })
 
 Npm.depends({
