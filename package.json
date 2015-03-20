@@ -1,0 +1,25 @@
+{
+  "name": "meteor-mturk",
+  "version": "0.1.6",
+  "description": "Meteor package for mTurk based on [jefftimesten/mturk](https://github.com/jefftimesten/mturk).",
+  "main": "mturk-tests.js",
+  "scripts": {
+    "test": "npm install && spacejam test-packages ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/csats/meteor-mturk.git"
+  },
+  "author": {
+    "name": "C-SATS, Inc.",
+    "url": "http://www.csats.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csats/meteor-mturk/issues"
+  },
+  "homepage": "https://github.com/csats/meteor-mturk",
+  "dependencies": {
+    "spacejam": "^1.1.4"
+  }
+}
