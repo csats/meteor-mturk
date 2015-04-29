@@ -4,7 +4,7 @@
   "description": "Meteor package for mTurk based on [jefftimesten/mturk](https://github.com/jefftimesten/mturk).",
   "main": "mturk-tests.js",
   "scripts": {
-    "test": "npm install && jshint -c .jshintrc --verbose *js lib && spacejam test-packages ./"
+    "test": "jshint --exclude-path .jshintignore --verbose ."
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,11 @@
   },
   "homepage": "https://github.com/csats/meteor-mturk",
   "dependencies": {
-    "jshint": "^2.6.3",
-    "spacejam": "^1.1.4"
-  }
+    "jshint": "^2.7.0"
+  },
+  "keywords": [
+    "amazon",
+    "mturk",
+    "meteor"
+  ]
 }

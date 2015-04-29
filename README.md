@@ -1,5 +1,7 @@
 # Basic mTurk API wrapper for Meteor
 
+[![Build Status](https://travis-ci.org/csats/meteor-mturk.svg?branch=master)](https://travis-ci.org/csats/meteor-mturk)
+
 Meteor package for mTurk based on
 [jefftimesten/mturk](https://github.com/jefftimesten/mturk).
 
