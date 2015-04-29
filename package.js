@@ -3,7 +3,7 @@
 Package.describe({
   name: 'csats:mturk',
   summary: 'Basic mTurk API for Meteor',
-  version: '0.1.8',
+  version: '0.1.9',
   git: 'https://github.com/csats/meteor-mturk'
 });
 
@@ -26,7 +26,7 @@ Package.onTest(function(api){
 
 Npm.depends({
   'request': '2.51.0',
-  'libxmljs': '0.13.0',
+  'libxmljs': '0.14.0',
   'validator': '2.0.0',
   'async': '0.9.0'
 });
