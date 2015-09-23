@@ -3,7 +3,7 @@
 Package.describe({
   name: 'csats:mturk',
   summary: 'Basic mTurk API for Meteor',
-  version: '0.1.9',
+  version: '0.1.10',
   git: 'https://github.com/csats/meteor-mturk'
 });
 
