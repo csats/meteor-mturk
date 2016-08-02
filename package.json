@@ -1,6 +1,6 @@
 {
   "name": "meteor-mturk",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "Meteor package for mTurk based on [jefftimesten/mturk](https://github.com/jefftimesten/mturk).",
   "main": "mturk-tests.js",
   "scripts": {
